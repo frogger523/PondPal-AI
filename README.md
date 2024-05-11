@@ -32,3 +32,4 @@ Notes
 Contributions and Feedback
 
 Feel free to fork the repository and contribute your own enhancements! As this is my first project on GitHub, I'm always open to feedback and suggestions to improve.
+<img width="1440" alt="Screenshot 2024-05-11 at 9 18 46 AM" src="https://github.com/frogger523/PondPal-AI/assets/41655065/c1d5bba7-b470-486a-9cf4-d9a2c7612ac1">
