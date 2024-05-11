@@ -1,0 +1,10 @@
+requests
+openai
+pygame
+elevenlabs
+pydub
+speechrecognition
+webbrowser
+pyperclip
+pyautogui
+threading
